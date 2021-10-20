@@ -10,4 +10,4 @@ WTForms==2.3.3
 gunicorn
 pandas
 numpy
-
+email_validator
